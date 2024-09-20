@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **anneuhiriwe@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Os9rdoMCnBTpOy2kSjA78cnPh8KW4wpwpcblWZB2Fhs/edit](https://docs.google.com/document/d/1Os9rdoMCnBTpOy2kSjA78cnPh8KW4wpwpcblWZB2Fhs/edit)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/uhiriwe-anne-leslie-040552256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/uhiriwe-anne-leslie-040552256/" height="30" width="40" /></a>
