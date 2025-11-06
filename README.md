@@ -9,6 +9,6 @@
 </p>
 
 <p>
-  Beyond coding, I created <a href="https://artsuleslie.vercel.app" target="_blank"><b>Beyond Codes</b></a> 
+  Beyond coding, I created <a href="https://artsuleslie.vercel.app" target="_blank"><b>Artistry</b></a> 
   A space where <i>photography meets poetry</i>, blending visuals and words to capture emotion and thought.
 </p>
